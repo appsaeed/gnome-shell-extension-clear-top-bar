@@ -1,6 +1,4 @@
-const { Meta, St } = imports.gi;
-
-const Main = imports.ui.main;
+import * as Main from 'resource:///org/gnome/shell/ui/main.js';
 
 class Extension {
 
